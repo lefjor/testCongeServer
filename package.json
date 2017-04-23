@@ -17,6 +17,7 @@
     "jade": "^1.11.0",
     "morgan": "^1.6.1",
     "nodemailer": "^4.0.1",
+    "replace-in-file": "^2.5.0",
     "serve-favicon": "^2.3.0"
   },
   "devDependencies": {
